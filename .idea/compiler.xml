@@ -15,7 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="jakarta-ee-start" options="-endorseddirs C:\Users\Seeraj\Documents\NetBeansProjects\jee-start\jakarta-ee-start\target/endorsed" />
+      <module name="jakarta-ee-start" options="-endorseddirs $PROJECT_DIR$/target/endorsed" />
     </option>
   </component>
 </project>
